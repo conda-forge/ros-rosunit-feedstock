@@ -1,6 +1,6 @@
 package:
   name: ros-rosunit
-  version: 1.14.6
+  version: "1.14.7"
 
 source:
   url: https://github.com/ros-gbp/ros-release/archive/release/melodic/rosunit/1.14.6-0.tar.gz
